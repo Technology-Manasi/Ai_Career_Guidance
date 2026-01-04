@@ -132,4 +132,7 @@ streamlit run app.py
 
 Open in browser:
 
+
 http://localhost:8501
+
+Live Demo :- https://aicareerguidance-pwverbxlvbvg5g8hyyaybw.streamlit.app/
